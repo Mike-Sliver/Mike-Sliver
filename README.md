@@ -64,15 +64,15 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=ffb1fc&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
 
 <!-- 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 ᴍɪᴊʀ sʟɪᴠᴇʀ -->
 <b><details><summary>Click to Chat Me</summary></b>
 
-## ```Connect With 𝑨𝒔𝒊𝒇 𝑲𝒉𝒂𝒏```
+## ```Conntact With ✦𝑨𝒔𝒊𝒇 𝑲𝒉𝒂𝒏✦```
 </p>
 <a href="https://wa.me/923474187615?text=Hi%20I%20Am%20From%20GitHub%20☺️">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=Green" />
   </a>&nbsp;&nbsp;
 
 #### If you have any queries or suggestions then you can contact me i will be happy to respond. 
