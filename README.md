@@ -69,10 +69,10 @@
 <!-- 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 ᴍɪᴊʀ sʟɪᴠᴇʀ -->
 <b><details><summary>Click to Chat Me</summary></b>
 
-## ```Conntact With ✦𝑨𝒔𝒊𝒇 𝑲𝒉𝒂𝒏✦```
+## ```Contact With ✦𝑨𝒔𝒊𝒇 𝑲𝒉𝒂𝒏✦```
 </p>
 <a href="https://wa.me/923474187615?text=Hi%20I%20Am%20From%20GitHub%20☺️">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=Green" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=White" />
   </a>&nbsp;&nbsp;
 
 #### If you have any queries or suggestions then you can contact me i will be happy to respond. 
