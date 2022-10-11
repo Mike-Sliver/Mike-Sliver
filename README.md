@@ -6,7 +6,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=28&duration=5097&color=133500&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+Mike+Sliver+;Thanks+for+Visiting+;Follow+my+github"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=28&duration=5097&color=883500&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+Mike+Sliver+;Thanks+for+Visiting+;Follow+my+github"
             alt="Typing SVG"
         />
     </a>
